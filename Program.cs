@@ -9,7 +9,7 @@ public class Program
 
     public static void Main()
     {
-        Console.Title = "SimpleAPKUnpacker | Made by https://github.com/GabryB03/";
+        Console.Title = "SimpleAPKUnpacker | Made by https://github.com/ZygoteCode/";
         string inputApkPath = "";
 
         string javaInvokeFile = File.ReadAllText("d2j_invoke.bat");
